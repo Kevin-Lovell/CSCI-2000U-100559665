@@ -1,0 +1,20 @@
+Assignment 1
+
+1.	a) echo hello world
+	Outputs the text "hello world"
+	b) echo {con,pre}{sent,fer}{s,ed}
+	Outputs all 9 combinations of text to form different
+	words
+	c)date
+	Outputs the current date and time
+	d)whoami
+	outputs the name of the current user
+	e)cal 2000
+	outputs the calendar of the year 2000
+	f)cal 9 1752
+	outputs the calendar of only september in 1752
+	The calendar also skips the days september 3rd to 13th
+	g)bc
+	outputs information about the software
+	h)echo 5+4|bc
+	outputs the answer to the equation "9"
